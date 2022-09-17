@@ -2,7 +2,6 @@
 
 <p align="center">
 <img src="https://img.shields.io/static/v1?label=java&message=language&color=orange&style=for-the-badge&logo=java"/>
-<img src="http://img.shields.io/static/v1?label=License&message=MIT&color=red&style=for-the-badge"/>
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=RED&style=for-the-badge"/>
 <img alt="GitHub all releases" src="https://img.shields.io/github/downloads/marcosChalet/exercicios-projeto-de-sistemas/total?color=blue&logo=blue&logoColor=blue&style=for-the-badge">
 </p>
